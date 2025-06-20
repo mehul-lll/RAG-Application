@@ -1,6 +1,3 @@
-# RAG - Application
-
-
 # 🔍 RAG-Application
 
 RAG‑Application is a **Retrieval-Augmented Generation (RAG)** demo powered by LangChain, designed to help you build a robust end-to-end pipeline that:
